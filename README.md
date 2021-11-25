@@ -1,4 +1,4 @@
-# daterange-ui.js
+# DateRange UI
 Animated responsive daterange UI component - jQuery plugin<br>
 jQuery Plugin for visualizing datasets of dates and selecting a unique range<br>
 build upon D3.js
